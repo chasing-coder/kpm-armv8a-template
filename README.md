@@ -9,7 +9,14 @@
 
 ## 使用说明
 1. 克隆仓库：
-2. 更新并拉取 KernelPatch 源码：
+   ```bash
+git clone https://github.com/chasing-coder/kpm-armv8a-template.git
+```
+或者
+   ```bash
+git clone git@github.com:chasing-coder/kpm-armv8a-template.git
+```
+3. 更新 KernelPatch 源码：
 ```bash
 make update
 ```
