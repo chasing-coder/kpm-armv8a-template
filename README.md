@@ -9,11 +9,13 @@
 
 ## 使用说明
 1. 克隆仓库：
-   ```bash
+```bash
 git clone https://github.com/chasing-coder/kpm-armv8a-template.git
 ```
+
 或者
-   ```bash
+
+```bash
 git clone git@github.com:chasing-coder/kpm-armv8a-template.git
 ```
 3. 更新 KernelPatch 源码：
