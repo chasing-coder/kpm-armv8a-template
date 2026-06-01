@@ -18,7 +18,7 @@ git clone https://github.com/chasing-coder/kpm-armv8a-template.git
 ```bash
 git clone git@github.com:chasing-coder/kpm-armv8a-template.git
 ```
-3. 更新 KernelPatch 源码：
+2. 更新 KernelPatch 源码：
 ```bash
 make update
 ```
